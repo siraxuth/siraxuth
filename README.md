@@ -7,7 +7,7 @@ Developer, Student
 Passionate about Teaching Web Development and Arduino Robotics. Always Learning, Always Improving.
 
 * 🌍  I'm based in Ubon
-* 🖥️  See my portfolio at [siraxuth.xyz](http://siraxuth.xyz)
+* 🖥️  See my portfolio at [siraxuth.xyz](http://sirayuth.com)
 * ✉️  You can contact me at [siraxuth@gmail.com](mailto:siraxuth@gmail.com)
 * 🧠  I'm currently learning NextJS, TypeScript, raspberry pi
 
