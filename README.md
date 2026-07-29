@@ -11,7 +11,7 @@ Passionate about Teaching Web Development and Arduino Robotics. Always Learning,
 * ✉️  You can contact me at [siraxuth@gmail.com](mailto:siraxuth@gmail.com)
 * 🧠  I'm currently learning NextJS, TypeScript, raspberry pi
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/869507619553968158)](https://discord.com/users/869507619553968158)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1529308986833375285)](https://discord.com/users/1529308986833375285)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sirayuth.zx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siraxuth.xyz) 
